@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohyuatheig.super-mark.ru/sitemap.xml
